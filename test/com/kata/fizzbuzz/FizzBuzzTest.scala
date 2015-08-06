@@ -1,3 +1,5 @@
+package com.kata.fizzbuzz
+
 import org.specs._
 
 class FizzBuzzTest extends Specification {
